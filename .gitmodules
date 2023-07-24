@@ -1,0 +1,6 @@
+[submodule "worker"]
+	path = worker
+	url = https://github.com/yosoypollito/real.time.chat.cloudflare.worker
+[submodule "chat"]
+	path = chat
+	url = https://github.com/yosoypollito/real.time.chat.vue.js
